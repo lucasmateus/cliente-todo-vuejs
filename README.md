@@ -18,7 +18,7 @@ H. Publicar projeto no Heroku
 
 - Git clone
 ```sh
-$ git clone https://github.com/lucasmateus/api-todo-laravel.git
+$ git clone https://github.com/lucasmateus/cliente-todo-vuejs.git
 ```
 - Entrar no diretorio clonado
 ```sh
